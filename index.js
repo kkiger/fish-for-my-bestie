@@ -7,4 +7,4 @@ var fishing = function(river, pole){
 };
 fishing();
 
-more fish
+I still want to go fishing :)
